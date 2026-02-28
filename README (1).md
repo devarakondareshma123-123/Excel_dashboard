@@ -11,7 +11,7 @@
 
 ## 📸 Dashboard Preview
 
-(<img width="1920" height="1080" alt="Screenshot (50)" src="https://github.com/user-attachments/assets/7fd1b8da-8c01-4b72-b3e6-5eb4c1043638" />)
+(<img width="1920" height="1080" alt="Screenshot (50)" src="C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2026-02-28 181246.png" />)
 
 ---
 

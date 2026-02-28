@@ -102,7 +102,7 @@
 **Devarakonda Reshma**  
 📧 devarakondareshma30@gmail.com  
 🔗 [LinkedIn] (https://www.linkedin.com/in/reshma-devarakonda-115258315)
-    [GitHub] (https://github.com/devarakondareshma123-123/Reshma-devarakonda)
+    [GitHub] (https://github.com/devarakondareshma123-123)
 
 ---
 

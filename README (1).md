@@ -9,11 +9,6 @@
 
 ---
 
-## 📸 Dashboard Preview
-
-(<img width="1920" height="1080"  alt="Screenshot (50)" src= "C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2026-02-28 181246.png")
-
----
 
 ## 🚀 Features
 
